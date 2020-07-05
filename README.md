@@ -1,6 +1,6 @@
 Obscurity HTB quick shell for www-data
 =============
-With you can easily gain access as www-data to the "obcurity" HTB box.  
+With this script you can easily gain access as www-data to the "obcurity" HTB box.  
 
 Change the IP in the script:
 ``` 
